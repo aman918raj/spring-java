@@ -15,7 +15,7 @@
 
 
     <!-- bean definitions here -->
-    <bean id="car" class="com.example.spring.framework.DependencyInjection.xml.Bike">
+    <bean id="vehicle" class="com.example.spring.framework.DependencyInjection.xml.Car">
         <property name="name" value="XCar"></property>
         <property name="numberOfTyres" value="4"></property>
     </bean>
